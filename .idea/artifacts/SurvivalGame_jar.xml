@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SurvivalGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SurvivalGame_jar</output-path>
+    <root id="archive" name="SurvivalGame.jar">
+      <element id="module-output" name="SurvivalGame" />
+    </root>
+  </artifact>
+</component>
