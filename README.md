@@ -11,12 +11,19 @@ crafting and much more. It also contains some basic modding API, so you can exte
 ## Key Binding
 
 W, A, S, D - move around
+
 I - open/close backpack inventory
+
 C - open/close list of crafting recipes
+
 B - debug info
+
 P - pause game
+
 L - load plugins
+
 U - unload plugins
+
 R - reload plugins
 
 ## License
